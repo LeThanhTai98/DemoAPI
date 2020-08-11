@@ -1,0 +1,1 @@
+{"BigPicture":"/arknights/sites/arknights/files/2020-01/char_225_haak_2.png","Class":"/arknights/sites/arknights/files/2019-10/class_specialist.png","Faction":"/arknights/sites/arknights/files/2019-06/logo_lungmen.png","Position":"Ranged","AttackType":"Physical Damage","Range":[[0,1,0],[0,0,0],[0,0,0],[0,0,0]]}
